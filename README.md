@@ -1,9 +1,9 @@
-#Phone Book
+Phone Book
 This project is part of the first module of the Java Training.
 
 The exercise contains the following tasks:
 
-1. Create a github account and send username to andreea.chiscari@frequentis.com
+1. Create a github account and send username to andreea
 2. Make sure you have access to https://github.com/thejavatrainer/Module1-IntroductionToJava
 3. Create a personal repository in gitHub and name it Module1-IntroductionToJava
 4. In this repository add a maven project 
