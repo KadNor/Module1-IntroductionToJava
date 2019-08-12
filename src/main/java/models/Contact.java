@@ -58,4 +58,12 @@ public class Contact {
     public void setEmail(final String email) {
         this.email = email;
     }
+
+    @Override
+    public String toString() {
+        return "name: " + name +
+                "; nickName: " + nickName +
+                "; phoneNumber: " + phoneNumber +
+                "; email: " + email;
+    }
 }
